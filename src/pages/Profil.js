@@ -15,7 +15,7 @@ même dans d’autre domaine si possible .</p>
 </div>
 <div className="d-flex flex-column align-items-center text-center m-6 " style={{ marginTop: '10px', borderRadius: '10px', boxShadow: '5px 5px 5px 5px #888888'}}>
   <h1 className="display-5 " style={{fontWeight: 'bold', marginTop: '20px'}} >KOUAME ANANI KOBENAN</h1>
-  <h1 className="display-4" style={{fontWeight: 'bold'}}>AGE : 24 ANS</h1>
+  <h1 className="display-4" style={{fnpmontWeight: 'bold'}}>AGE : 24 ANS</h1>
   <h3 className="lead" style={{fontWeight: 'bold'}}>DEVELOPPEUR WEB</h3>
 </div>
 
